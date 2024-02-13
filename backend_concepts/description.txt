@@ -1,0 +1,1 @@
+This folder contains various code snippets covering Java Advanced concepts.
